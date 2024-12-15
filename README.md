@@ -1,11 +1,11 @@
 <h1 align="center">I'm Aryan Saxena</h1>
 <h3 align="center">Aspiring Full-Stack Developer from India, Exploring Web Development and Python</h3>
 
-- 🔭 I’m currently working on [Todo-List application](https://aryancs01.github.io/todo-drag-drop/)
+- 🔭 I’m currently working on [Second Brain Wesbite](https://aryancs01.github.io/second-brain/)
 
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **Web Development and Java**
 
-- 💬 Ask me about **Javascript and Python**
+- 💬 Ask me about **Javascript and Java**
 
 - 📫 How to reach me **aryan1032saxena@gmail.com**
 
