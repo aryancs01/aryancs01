@@ -1,7 +1,7 @@
 <h1 align="center">I'm Aryan Saxena</h1>
 <h3 align="center">Aspiring Full-Stack Developer from India, Exploring Web Development and Python</h3>
 
-- 🔭 I’m currently working on [Second Brain Wesbite](https://aryancs01.github.io/second-brain/)
+- 🔭 I’m currently working on [Second Brain Wesbite](https://github.com/aryancs01/second_brain)
 
 - 🌱 I’m currently learning **Web Development and Java**
 
