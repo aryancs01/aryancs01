@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development and Devops**
 
-- 👨‍💻 All of my projects are available at [https://aryansaxena.vercel.app](https://aryansaxena.vercel.app)
+- 👨‍💻 My Portfolio:- [https://aryansaxena.vercel.app](https://aryansaxena.vercel.app)
 
 - 💬 Ask me about **Next.js, Typescript and Express.js**
 
